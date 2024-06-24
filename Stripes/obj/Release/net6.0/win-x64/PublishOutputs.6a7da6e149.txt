@@ -1,0 +1,15 @@
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripes.exe
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripes.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripes.deps.json
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripes.runtimeconfig.json
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripes.pdb
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\Stripe.net.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\System.Drawing.Common.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Permissions.dll
+F:\Data Security Tasks\Stripes\Stripes\obj\Release\net6.0\win-x64\PubTmp\Out\System.Windows.Extensions.dll

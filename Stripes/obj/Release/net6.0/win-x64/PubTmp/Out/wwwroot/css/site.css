@@ -1,0 +1,73 @@
+/*html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: var(--main-color) !important;
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@300&display=swap'); 
+:root {
+    --main-color: #68a3ec;
+    --light-color: #f0f3f2;
+    --shadow: rgba(145, 158, 171, .2) 0px 2px 4px -1px, rgba(145, 158, 171, .14) 0px 4px 5px 0px, rgba(145, 158, 171, .12) 0px 1px 10px 0px;
+    --font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+body {
+    font-family: var(--font-family) !important;
+}
+
+.font-sm {
+    font-size: 14px;
+}
+
+.text-main {
+    color: var(--main-color);
+}
+
+.bg-main {
+    background-color: var(--main-color) !important;
+}
+
+.bg-main-light {
+    background-color: var(--light-color) !important;
+}
+
+.form-control:focus {
+    border-color: var(--main-color);
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #94b3f0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.log {
+    width: 90%;
+    margin-left: auto;
+}
+
+@media screen and (max-width: 991px) {
+    .log {
+        width: auto;
+        margin-left: 0%;
+    }
+}
+
+.user {
+    background-color: #F0F3F2;
+    margin-left: 60px;
+}
